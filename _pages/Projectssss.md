@@ -30,4 +30,4 @@ $$
 
 To model the above problem,begin by importing `RecursiveIdentification`. Next, create an agent instance, utilizing the appropriate parameters
 ``` python
-recr = RecursiveIdentification(data=kiliandata, var_names=varname, shock_names=shockname, date_frequency='M', lag_order=24)
+recr = RecursiveIdentification(data=kdata, var_names=vname, shock_names=sname, date_frequency='M', lag_order=24)
