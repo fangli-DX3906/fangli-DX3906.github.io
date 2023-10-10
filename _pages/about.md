@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+Welcome!
 
-I am a Ph.D. candidate in the [Department of Economics](https://www.ualberta.ca/economics/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html), Canada, supervised by [Prof. Marco Brianti](https://sites.google.com/site/marcobriantieconomics/). My research interests lie in applied macroeconomics and dynamic stochastic general equilibrium (DSGE) models. My current investigations focuses the investment and dividend distribution behaviors of firms, SVAR estimation and DSGE modeling.
+I am a Ph.D. candidate in the [Department of Economics](https://www.ualberta.ca/economics/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html), Canada, supervised by [Prof. Marco Brianti](https://sites.google.com/site/marcobriantieconomics/). I will be on the job market for the 2023/2024 academic year and actively seeking private sector or central bank position. 
 
-I am also a CFA candidate (passed the level III exam) and have received my MS in Economics from [Xiamen University](https://www.xmu.edu.cn) and BS in Finance from [Wuhan University](http://www.whu.edu.cn). I am proficient in several programming languages, including Python, C++, Matlab, and LaTeX. I utilize my programming skills to design a package for macroeconomists focusing on SVAR estimation. Additionally, I have an interest in machine learning and deep learning models. You can find a sample of my codes [here](https://github.com/fangli-DX3906).
+My research interests lie in applied macroeconomics and dynamic stochastic general equilibrium (DSGE) models. My current investigations focuses the investment and dividend distribution behaviors of firms, SVAR estimation and DSGE modeling. 
 
-I will be on the job market for the 2023/2024 academic year. 
+I'm also a CFA candidate (passed the level III exam). Besides, I am proficient in several programming languages, including Python, C++, Matlab, and LaTeX. I utilize my programming skills to design a package for macroeconomists focusing on SVAR estimation. Additionally, I have an interest in machine learning and deep learning models. You can find a sample of my codes [here](https://github.com/fangli-DX3906).
 
-[Email](mailto:fli7@ualberta.ca) / [Github](https://github.com/fangli-DX3906) / [Wechat](../images/wechat.png) / [LinkedIn](https://www.linkedin.com/in/fangli3906)
+Email: [fli7@ualberta.ca](mailto:fli7@ualberta.ca)
+
+[Github](https://github.com/fangli-DX3906) / [Wechat](../images/wechat.png) / [LinkedIn](https://www.linkedin.com/in/fangli3906)
