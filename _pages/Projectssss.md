@@ -76,7 +76,7 @@ Future Plan: Integrate the Bayesian method.
 This is a beta version. The code has not undergone extensive testing as of yet. While we hope it proves useful, we provide absolutely no guarantees, either expressed or implied, regarding its functionality or suitability for your needs.
 
 ### Thanks
-I want to extend my deepest thanks to my advisor, Dr. Marco Brianti, for introducing me to this field and providing generous guidance on the SVAR model identification and estimation.
+I wish to extend my deepest thanks to my advisor, Dr. Marco Brianti, for introducing me to this field and for providing generous guidance on the SVAR model's identification and estimation techniques.
 
 <br>
 <br>
