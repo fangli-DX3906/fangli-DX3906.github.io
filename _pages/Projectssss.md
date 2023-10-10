@@ -27,3 +27,7 @@ a_{31} & a_{32} & a_{33}
 \epsilon_t^{\text{oil specific-demand shock}}
 \end{pmatrix}
 $$
+
+To model the above problem,begin by importing `RecursiveIdentification`. Next, create an agent instance, utilizing the appropriate parameters
+``` python
+recr = RecursiveIdentification(data=kiliandata, var_names=varname, shock_names=shockname, date_frequency='M', lag_order=24)
