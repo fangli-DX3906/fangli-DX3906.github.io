@@ -75,8 +75,9 @@ This is a beta version. The code has not undergone extensive testing as of yet. 
 
 ### Thanks
 I want to extend my deepest thanks to my advisor, Dr. Marco Brianti, for introducing me to this field and providing generous guidance on the SVAR model identification and estimation.
-
-
+<br>
+<br>
+<br>
 
 ## Mini ML Projects Inventory
 
