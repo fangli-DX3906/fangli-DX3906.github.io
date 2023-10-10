@@ -80,7 +80,6 @@ I want to extend my deepest thanks to my advisor, Dr. Marco Brianti, for introdu
 
 <br>
 <br>
-<br>
 
 ## Mini ML Projects Inventory
 
