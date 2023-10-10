@@ -20,6 +20,7 @@ Econ 399 - Introductory Econometrics (2022 Fall, 2022 Winter, 2023 Fall)<br>
 
 ### University of Delaware 
 Teaching Assistantships:
+
 (PhD) Econ 822 - Econometric Theory I (2019 Fall, 2020 Fall)<br>
 
 (PhD) Econ 811 - Microeconomics (2020 Fall)<br>
