@@ -60,3 +60,18 @@ for m in mdls:
 where the point estimate and confidence interval are stored in `irf_point_estimate` and `irf_mat_full`, respectively.  Lastly call `.plot_irf()` to plot the impulse response. Here is the plot:
 
 ![suppy](../images/suppy.png)
+![agg_demand](../images/add_demand.png)
+![spe_demand](../images/spe_demand.png)
+
+### Version
+The current beta version now includes sign restriction, recursive identification, and exclusion identification. I will continue to update the package
+
+The next version will include optimization-based identification and identification through heteroscedasticity. It will also incorporate historical decomposition.
+
+Future Plan: Integrate the Bayesian method.
+
+### Disclaimer
+This is a beta version. The code has not undergone extensive testing as of yet. While we hope it proves useful, we provide absolutely no guarantees, either expressed or implied, regarding its functionality or suitability for your needs.
+
+### Thanks
+I want to extend my deepest thanks to my advisor, Dr. Marco Brianti, for introducing me to this field and providing generous guidance on the SVAR model identification and estimation.
