@@ -7,7 +7,7 @@ author_profile: true
 
 ## PySVAR
 
-PySVAR is a mini package (or a bag-of-codes) designed for SVAR estimation across multiple identification schemes. It's simple—there will be virtually no learning curve if you're familiar with Sklearn. Simply input the parameters, and voila!
+This is a mini package (or just call it a bag-of-codes) designed for SVAR estimation across multiple identification schemes. I named it PySVAR, just trying to keep up with the Python package naming trend. It’s super straightforward—there will be virtually no learning curve if you're familiar with Sklearn. Simply input the parameters, and all set!
 
 ### Usage
 We begin with one of the simplest possible identification method: the Cholesky identification, used by Kilian in the 2009 AER paper. Assuming $e_t=A_0^{−1}\epsilon_t$, where $e_t$ represents the reduced form errors and $\epsilon_t$ denotes the structural shocks and $A_0^{-1}$ is defined as
