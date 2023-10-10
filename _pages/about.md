@@ -19,6 +19,9 @@ I will be on the job market for the 2023/2024 academic year.
 
 
 Department of Economics
+
 8-14 Tory Building
+
 University of Alberta
+
 Edmonton, AB, Canada, T6G 2H4
