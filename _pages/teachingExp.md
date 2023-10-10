@@ -10,8 +10,11 @@ author_profile: true
 Teaching Assistantships:
 
 Econ 421 - International Trade (2021 Fall, 2022 Winter)
+
 Econ 640 - Advanced Topics in Macro-Finance (2022 Winter)
+
 Econ 323 - International Economics (2022 Spring & Summer)
+
 Econ 399 - Introductory Econometrics (2022 Fall, 2022 Winter, 2023 Fall)
 
 ### University of Delaware 
