@@ -1,16 +1,23 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+#### Corporate Cash, Investment, and Uncertainty
+job market paper
 
-{% include base_path %}
+Using firm-level data from Compustat and FISD, I found that, conditional on the aggregate uncertainty level, corporate investment decreases in response to the cash shock, and dividend distribution increases. I built a simple DSGE model with a flight-to-safety feature to match the empirical results. This occurs because the shareholder shifts her asset holding from a risky asset to a riskless asset, thereby squeezing the firm's resources. I also implemented a welfare analysis, and it shows that adding a flight-to-safety feature creates a welfare cost and is thus suboptimal.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+#### Identifying Demand and Supply Shocks
+with Dr. Marco Brianti
+
+We used a new identification strategy to identify the effects of aggregate demand and aggregate supply shocks on real U.S. data. The simulation study and the robust test show that this identification strategy works well: (1) the estimated implied impulse response functions are consistent with the model-implied impulse response functions; (2) the estimated shocks and actual shocks are very highly correlated. The empirical results indicate that GDP is less persistent than inflation in response to demand shocks, whereas GDP is more persistent than inflation in response to supply shocks. Also, demand shocks are a more vital driver of boom-bust cycles than supply shocks.
+
+
+#### Identifying Oil Uncertainty Shocks
+in progress
+
+Crude oil is one of the most crucial production inputs, and oil market turbulence should be a robust driver of the business cycle. Since the oil price is endogenously determined in the economy, identifying shocks associated with oil prices is not easy. This paper proposes a novel focus: oil price uncertainty shock, defined as the second-moment news shock to oil prices. The impulse response analysis and variance decomposition show that the oil uncertainty shock is quantitatively important.
