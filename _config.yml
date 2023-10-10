@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fang Li @ UAlberta Econ"
+title                    : "Fang Li"
 title_separator          : "-"
 name                     : &name "Fang Li"
-description              : &description "Fang Li"
+description              : &description "econ Ph.D. Candidate @ UAlberta"
 url                      : "https://fangli-DX3906.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fangli-DX3906/fangli-DX3906.github.io"
