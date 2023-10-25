@@ -30,7 +30,7 @@ a_{31} & a_{32} & a_{33}
 \end{pmatrix}
 $$
 
-To model the above problem,begin by importing `RecursiveIdentification`. Next, create an agent instance, utilizing the appropriate parameters
+To model the above problem,begin by importing `RecursiveIdentification`. Next, create an instance, utilizing the appropriate parameters
 ``` python
 recr = RecursiveIdentification(data=kdata, var_names=vname, shock_names=sname, date_frequency='M', lag_order=24)
 ```
@@ -73,7 +73,7 @@ The next version will include optimization-based identification and identificati
 Future Plan: Integrate the Bayesian method.
 
 ### Disclaimer
-This is a beta version. The code has not undergone extensive testing as of yet. While we hope it proves useful, we provide absolutely no guarantees, either expressed or implied, regarding its functionality or suitability for your needs.
+This is a beta version. The code has not undergone extensive testing as of yet. While I hope it proves useful, I provide absolutely no guarantees, either expressed or implied, regarding its functionality or suitability for your needs.
 
 ### Thanks
 I wish to extend my deepest thanks to my advisor, Dr. Marco Brianti, for introducing me to this field and for providing generous guidance on the SVAR model's identification and estimation techniques.
