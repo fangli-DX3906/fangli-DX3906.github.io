@@ -65,7 +65,7 @@ for m in mdls:
 
 where the point estimate and confidence interval are stored in `irf_point_estimate` and `irf_mat_full`, respectively.  Lastly call `.plot_irf()` to plot the impulse response. Here is the plot:
 
-![suppy](../images/suppy.png)
+![suppy](../images/supply.png)
 ![agg_demand](../images/agg_demand.png)
 ![spe_demand](../images/spe_demand.png)
 
