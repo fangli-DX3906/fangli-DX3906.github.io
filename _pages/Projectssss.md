@@ -63,7 +63,7 @@ for m in mdls:
    m.plot_irf(h=15, var_list=n, sigs=95, with_ci=True)
 ```
 
-where the point estimate and confidence interval are stored in `irf_point_estimate` and `irf_mat_full`, respectively.  Lastly call `.plot_irf()` to plot the impulse response. Here is the plot:
+where the point estimate and confidence interval are stored in `irf_point_estimate` and `irf_mat_full`, respectively.  Lastly call `.plot_irf()` to plot the impulse response. Here is the plot (supply shocks, aggregate demand shocks, and specific demand shocks):
 
 ![suppy](../images/supply.png)
 ![agg_demand](../images/agg_demand.png)
