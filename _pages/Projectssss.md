@@ -32,7 +32,11 @@ $$
 
 To model the above problem,begin by importing `RecursiveIdentification`. Next, create an instance, utilizing the appropriate parameters
 ``` python
-recr = RecursiveIdentification(data=kdata, var_names=vname, shock_names=sname, date_frequency='M', lag_order=24)
+from identification.recursive_identification import RecursiveIdentification
+
+n = ['OilProd', 'REA', 'OilPrice']
+s = ['Supply', 'Agg Demand', 'Specific Demand']
+recr = RecursiveIdentification(data=o, var_names=n, shock_names=s, lag_order=24, date_frequency='M')
 ```
 
 Once the instance is initialized, invoke `.identify()` for estimation and `.bootstrap()` to calculate the confidence interval
@@ -71,6 +75,12 @@ The current beta version now includes sign restriction, recursive identification
 The next version will include optimization-based identification and identification through heteroscedasticity. It will also incorporate historical decomposition.
 
 Future Plan: Integrate the Bayesian method.
+
+Jan 2024 update: Support for parallel computing has been implemented for sign restrictions, resulting in a 50% speed increase.
+
+May 2024 update: Support for optimization based identification method.
+
+June 2024 update: Support for several priors.
 
 ### Disclaimer
 This is a beta version. The code has not undergone extensive testing as of yet. While I hope it proves useful, I provide absolutely no guarantees, either expressed or implied, regarding its functionality or suitability for your needs.
