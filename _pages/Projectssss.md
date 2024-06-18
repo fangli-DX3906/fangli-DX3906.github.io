@@ -69,12 +69,10 @@ where the point estimate and confidence interval are stored in `irf_point_estima
 ![agg_demand](../images/agg_demand.png)
 ![spe_demand](../images/spe_demand.png)
 
-### Version
-The current beta version now includes sign restriction, recursive identification, and exclusion identification. I will continue to update the package
+### Versions
+The current beta version now includes sign restriction, recursive identification, exclusion identification, and some bayesian models. I will continue to update the package
 
-The next version will include optimization-based identification and identification through heteroscedasticity. It will also incorporate historical decomposition.
-
-Future Plan: Integrate the Bayesian method.
+The next version will include identification through heteroscedasticity. It will also incorporate historical decomposition.
 
 Jan 2024 update: Support for parallel computing has been implemented for sign restrictions, resulting in a 50% speed increase.
 
