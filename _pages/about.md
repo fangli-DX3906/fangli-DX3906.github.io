@@ -14,7 +14,7 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.ualberta.ca/
 
 My research interests lie in applied macroeconomics and dynamic stochastic general equilibrium (DSGE) models. My current investigations focuses the investment and dividend distribution behaviors of firms, SVAR estimation and DSGE modeling. 
 
-I'm also a CFA candidate (passed the level III exam) and a FRM candidate (passed both part I and II exam). Besides, I am proficient in several programming languages, including Python, MySQL, C++, Google BigQuery, Matlab, and LaTeX. I utilize my programming skills to design a package for macroeconomists focusing on SVAR estimation. Additionally, I have an interest in machine learning and deep learning models. You can find a sample of my codes [here](https://github.com/fangli-DX3906).
+I'm also a CFA candidate (passed the level III exam) and FRM candidate (passed both part I and II exam). Besides, I am proficient in several programming languages, including Python, MySQL, C++, Google BigQuery, Matlab, and LaTeX. I utilize my programming skills to design a package for macroeconomists focusing on SVAR estimation. Additionally, I have an interest in machine learning and deep learning models. You can find a sample of my codes [here](https://github.com/fangli-DX3906).
 
 Email: [fli7@ualberta.ca](mailto:fli7@ualberta.ca)
 
