@@ -11,8 +11,6 @@ job market paper
 
 Using firm-level data from Compustat and FISD, TRACE, I empirically discovered that the correlation between firm investment levels and cash flow diminishes when the aggregate uncertainty level is high. Conversely, the correlation between firm cash dividend distributions and cash flow increases under these conditions. This finding is somewhat counterintuitive. I built a simple DSGE model with a flight-to-safety feature to match the empirical results. This occurs because the shareholder shifts her asset holding from a risky asset to a riskless asset, thereby squeezing the firm's resources and behaving myopic. I also implemented a welfare analysis, and it shows that adding a flight-to-safety feature creates a welfare cost and is thus suboptimal.
 
-You can find the current version of my job market paper [here](../assets/jmp.pdf).
-
 
 ### Identifying Demand and Supply Shocks
 with Dr. Marco Brianti
