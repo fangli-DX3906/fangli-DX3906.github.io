@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](../assets/lfresume.pdf).
+You can find my CV [here](../assets/fangli_resume.pdf).
