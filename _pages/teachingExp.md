@@ -15,7 +15,7 @@ Econ 640 - Advanced Topics in Macro-Finance (2022 Winter)<br>
 
 Econ 323 - International Economics (2022 Spring & Summer)<br>
 
-Econ 399 - Introductory Econometrics (2022 Fall, 2022 Winter, 2023 Fall)<br>
+Econ 399 - Introductory Econometrics (2022 Fall, 2022 Winter, 2023 Fall, 2024 Winter)<br>
 
 
 ### University of Delaware 
