@@ -19,6 +19,5 @@ We used a new identification strategy to identify the effects of aggregate deman
 
 
 ### Identifying Oil Uncertainty Shocks
-in progress
 
-Crude oil is one of the most crucial production inputs, and oil market turbulence should be a robust driver of the business cycle. Since the oil price is endogenously determined in the economy, identifying shocks associated with oil prices is not easy. This paper proposes a novel focus: oil price uncertainty shock, defined as the second-moment news shock to oil prices. The impulse response analysis and variance decomposition show that the oil uncertainty shock is quantitatively important.
+Crude oil is one of the most crucial production inputs, and oil market turbulence should be a robust driver of the business cycle. Since the oil price is endogenously determined in the economy, identifying shocks associated with oil prices is not easy. This paper proposes a novel focus: oil price uncertainty shock, defined as the second-moment news shock to oil prices. The impulse response analysis, variance decomposition and historical decomposition show that the oil uncertainty shock is quantitatively important.
