@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I earned my Ph.D. in Economics from [University of Alberta](https://www.ualberta.ca/index.html) under the supervision of [Prof. Marco Brianti](https://sites.google.com/site/marcobriantieconomics/). I will be on the job market for the 2024/2025 academic year and actively seeking positions worldwide in finance, data science, the broader private sector, and central banking.
+I earned my Ph.D. in Economics from [University of Alberta](https://www.ualberta.ca/index.html) under the supervision of [Dr. Marco Brianti](https://sites.google.com/site/marcobriantieconomics/). I will be on the job market for the 2024/2025 academic year and actively seeking positions worldwide in finance, data science, the broader private sector, and central banking.
 
 My research interests lie in applied macroeconomics (SVAR and Bayesian econometrics) and dynamic stochastic general equilibrium (DSGE) models. My current investigations focuses the investment and dividend distribution behaviors of firms, SVAR estimation and DSGE modeling. 
 
