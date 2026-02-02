@@ -21,3 +21,9 @@ We used a new identification strategy to identify the effects of aggregate deman
 ### Identifying Oil Uncertainty Shocks
 
 Crude oil is one of the most crucial production inputs, and oil market turbulence should be a robust driver of the business cycle. Since the oil price is endogenously determined in the economy, identifying shocks associated with oil prices is not easy. This paper proposes a novel focus: oil price uncertainty shock, defined as the second-moment news shock to oil prices. The impulse response analysis, variance decomposition and historical decomposition show that the oil uncertainty shock is quantitatively important.
+
+
+### The Impact of Fair and Open Access on LNG Imports: Evidence from a Quasi-Experiment on the Establishment of PipeChina
+with Dr. Zhongli Zhang
+
+We exploit the establishment of PipeChina as a quasi-natural experiment to examine the impact of the fair and open access principle on LNG import volumes at the LNG terminal level. PipeChina was estabilished in 2021, which centralized the ownership and operation of major LNG receiving terminals. Once a terminal was transferred to PipeChina, third-party firms were granted non-discriminatory access to its regasification and associated pipeline services.
