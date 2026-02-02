@@ -89,8 +89,3 @@ I wish to extend my deepest thanks to my advisor, Dr. Marco Brianti, for introdu
 <br>
 <br>
 
-## Mini ML Projects Inventory
-
-This is a collection of mini machine learning projects. I hand-coded all the methods from scratch without using other packages (except for SVM, as it requires a quadratic solver). The codes were based on projects from the courses ELEG815 and CISC684. Data are available upon request. It contains several classifiers for handwritten digits and ham/spam text datasets, including perceptron, neural networks, SVM, and logistics. It also contains other methods, such as Kmeans and decision tree.
-
-You can find the code [here](https://github.com/fangli-DX3906/mini-ML-projects).
