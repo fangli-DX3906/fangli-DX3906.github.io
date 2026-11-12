@@ -12,7 +12,7 @@ Welcome!
 
 I earned my Ph.D. in Economics from [University of Alberta](https://www.ualberta.ca/index.html) under the supervision of [Dr. Marco Brianti](https://sites.google.com/site/marcobriantieconomics/). I'm on the 2025/2026 job market and actively seeking positions worldwide in finance, data science, the broader private sector, and central banking.
 
-My research interests lie in applied macroeconomics (SVAR and Bayesian econometrics) in energy and dynamic stochastic general equilibrium (DSGE) models. My current investigations focuses the investment and dividend distribution behaviors of firms, SVAR estimation and DSGE modeling, identification of the second order moment shocks from oil sector. 
+My research interests lie in applied macroeconomics (SVAR and Bayesian econometrics) in energy and dynamic stochastic general equilibrium (DSGE) models. My current investigations focuses the investment and dividend distribution behaviors of firms, SVAR estimation and DSGE modeling, identification of the second order moment shocks from oil sector.  
 
 I'm both a CFA (passed the level III exam) and an FRM candidate (passed both part I and II exam). Besides, I am proficient in several programming languages, including Python, MySQL, Google BigQuery, Matlab, and LaTeX. I utilize my programming skills to design a package for macroeconomists focusing on SVAR estimation. Additionally, I have an interest in machine learning and deep learning models. You can find a sample of my codes [here](https://github.com/fangli-DX3906).
 
